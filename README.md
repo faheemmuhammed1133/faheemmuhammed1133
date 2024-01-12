@@ -34,8 +34,8 @@
   <a href="https://www.linkedin.com/in/muhammed-faheem-9bbb89223" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
   </a>
-    <a href="https:/https://www.instagram.com/muhammed___fahee_m" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=fccc63&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
+    <a href="https://www.instagram.com/muhammed___fahee_m" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=fbad50&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo" />
   </a>
   <a href="https://twitter.com/faeem6327" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
