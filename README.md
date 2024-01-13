@@ -24,7 +24,7 @@
 
  </div>
  
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
 
 
 <div align="center">
@@ -54,7 +54,7 @@
 </div>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
   
 </div>
 <div align="center">
