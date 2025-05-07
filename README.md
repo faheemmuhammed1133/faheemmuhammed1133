@@ -12,15 +12,15 @@
 
  <div align="left">
 
--> I am a **first year B.Tech student** at **ITM Skills University**
+-> I am a **Second year B.Tech student** at **ITM Skills University**
  
 -> Passions into innovative solutions
 
--> Currently learning **Python**.
+-> Currently learning **Data Analytics**.
 
 -> Currently learning _Italian_
 
--> I am also interested in **NBA**, **Cars**, **Artificial Intelligence** and **Machine Learning**.
+-> I am also interested in **NBA**, **Cars**, **Data Science**, **Artificial Intelligence** and **Machine Learning**.
 
  </div>
  
