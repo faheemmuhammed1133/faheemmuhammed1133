@@ -12,7 +12,7 @@
 
  <div align="left">
 
--> I am a **Second year B.Tech student** at **ITM Skills University**
+-> I am a **Third year B.Tech student** at **ITM Skills University**
  
 -> Passions into innovative solutions
 
